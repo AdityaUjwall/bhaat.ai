@@ -1,0 +1,11 @@
+# Ignore datasets and archives
+datasets/food-101/
+*.zip
+*.tar.gz
+__MACOSX/
+.DS_Store
+
+# Python cache and notebook junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
